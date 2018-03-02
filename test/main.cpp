@@ -1,3 +1,4 @@
+string str3 = "djasjgasg//""""   """"""dasdada/*dasdas'//''//'''/*'""/" , //s="ssda//sfas""sdasda";
 sdjsdjajsasdasda
 //sdadadsadsasd
 
